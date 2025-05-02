@@ -1,0 +1,7 @@
+html, body {
+    background-color: rgb(177, 230, 173);
+}
+.profile-pic{
+    max-width: 300px;
+    height: auto;
+}
