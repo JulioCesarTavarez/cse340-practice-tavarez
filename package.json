@@ -1,13 +1,14 @@
 {
     "name": "cse340-practice-tavarez",
     "dependencies": {
+        "ejs": "^3.1.10",
         "express": "^5.1.0"
     },
     "type": "module",
     "scripts": {
-      "dev": "nodemon --env-file=.env server.js",
-      "start": "node --env-file=.env server.js"
-  },
+        "dev": "nodemon --env-file=.env server.js",
+        "start": "node --env-file=.env server.js"
+    },
     "devDependencies": {
         "nodemon": "^3.1.10"
     }
